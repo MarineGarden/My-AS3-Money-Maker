@@ -1,0 +1,2 @@
+interface DottedPath
+class     VisualBundle>>DottedLine.arrange(NumberLabelObject)
